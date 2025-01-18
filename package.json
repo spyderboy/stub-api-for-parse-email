@@ -1,0 +1,14 @@
+{
+  "name": "stub-api-for-parse-email",
+  "version": "1.0.0",
+  "description": "A simple REST API that accepts title, description, url, and senderEmail inputs.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
