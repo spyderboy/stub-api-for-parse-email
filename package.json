@@ -4,7 +4,7 @@
   "description": "A simple REST API that accepts title, description, url, and senderEmail inputs.",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
